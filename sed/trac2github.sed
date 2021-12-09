@@ -5,7 +5,7 @@ N
 /}}}\s*$/b quote-end
 b quote
 :quote-end
-s@^{{{[#!]*\([a-zA-Z]*\)@```\1@
+s@^{{{[\n\s#!]*\([a-zA-Z]*\)@```\1@
 s@}}}@```@
 t end
 :line
