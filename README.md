@@ -1,4 +1,4 @@
-# [Blog](https://github.com/codelint/blog/issues)
+# [Blog](https://github.com/codelint/blog/wiki)
 
 ## 开发者资源
 
