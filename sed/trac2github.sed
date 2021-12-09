@@ -1,4 +1,4 @@
-/{{{/b quote
+/^{{{/b quote
 b line
 :quote
 N
